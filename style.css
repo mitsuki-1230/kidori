@@ -259,6 +259,12 @@ sns
     .sns-area iframe {
         margin-bottom: 0;
     }
+
+    .sns-mask a{
+        height: 25vh;
+        width: 80%;
+    }
+    
 }
 
 /* ================================
